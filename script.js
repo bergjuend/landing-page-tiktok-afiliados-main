@@ -205,6 +205,18 @@ const products = [
     category: "CAMISAS E MOLETONS",
     image: "assets/bayer.png",
     link: "https://s.shopee.com.br/BV9b2iykK"
+  },
+  {
+    name: "Bayer de Munique Oficial",
+    category: "Relógios",
+    image: "assets/casio.png",
+    link: "https://s.shopee.com.br/6VPDBcQCXZ"
+  },
+  {
+    name: "Sapato Social Mocassim",
+    category: "Sapatos Sociais",
+    image: "assets/mocassim.png",
+    link: "https://s.shopee.com.br/2gCUcm0gls"
   }
 ];
 
