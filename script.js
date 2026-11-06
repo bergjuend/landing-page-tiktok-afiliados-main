@@ -169,6 +169,42 @@ const products = [
     category: "Calças",
     image: "assets/calçabalao.png",
     link: "https://s.shopee.com.br/4fxXUoSXgo"
+  },
+  {
+    name: "Camisa Barcelona 2023/24",
+    category: "CAMISAS E MOLETONS",
+    image: "assets/barcelona.png",
+    link: "https://s.shopee.com.br/50aPMFrhIs"
+  },
+  {
+    name: "Barcelona Camisa Branca",
+    category: "CAMISAS E MOLETONS",
+    image: "assets/barcelonabranca.png",
+    link: "https://s.shopee.com.br/6fidLGD1U3"
+  },
+  {
+    name: "Moletom City",
+    category: "CAMISAS E MOLETONS",
+    image: "assets/city.png",
+    link: "https://s.shopee.com.br/1BNgn5ZZsI"
+  },
+  {
+    name: "Moletom Real Madrid",
+    category: "CAMISAS E MOLETONS",
+    image: "assets/realmadrid.png",
+    link: "https://s.shopee.com.br/4fxYxVDrFo"
+  },
+  {
+    name: "Santos Retro Neymar",
+    category: "CAMISAS E MOLETONS",
+    image: "assets/santos.png",
+    link: "https://s.shopee.com.br/9V2oiFUN7m"
+  },
+  {
+    name: "Bayer de Munique Oficial",
+    category: "CAMISAS E MOLETONS",
+    image: "assets/bayer.png",
+    link: "https://s.shopee.com.br/BV9b2iykK"
   }
 ];
 
