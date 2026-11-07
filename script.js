@@ -207,7 +207,7 @@ const products = [
     link: "https://s.shopee.com.br/BV9b2iykK"
   },
   {
-    name: "Bayer de Munique Oficial",
+    name: "Relógio Casio Vintage",
     category: "Relógios",
     image: "assets/casio.png",
     link: "https://s.shopee.com.br/6VPDBcQCXZ"
