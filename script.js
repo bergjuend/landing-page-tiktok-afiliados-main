@@ -217,6 +217,18 @@ const products = [
     category: "Sapatos Sociais",
     image: "assets/mocassim.png",
     link: "https://s.shopee.com.br/2gCUcm0gls"
+  },
+  {
+    name: "Corrente Masculina de Ouro + Pulseira Masculina de Ouro",
+    category: "acessórios",
+    image: "assets/corrente.png",
+    link: "https://s.shopee.com.br/7AevXa3VuP"
+  },
+  {
+    name: "Maquinha de Barbear Elétrica Recarregável",
+    category: "Eletrônicos",
+    image: "assets/dragão.png",
+    link: "https://s.shopee.com.br/50aQy8gI8f"
   }
 ];
 
